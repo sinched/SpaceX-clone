@@ -452,7 +452,7 @@ footer ul li a:hover {
 
 @media (max-width: 600px) {
   html {
-    /* overflow: hidden; */
+    overflow: hidden;
   }
 
   .section-inner {
